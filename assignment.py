@@ -94,8 +94,8 @@ def count_repeats(string):
 
     """
     Returns the number of repeated characters in a string.
-    >>> count_repeats("hello")
-    1
+    >>> count_repeats("helloo")
+    2
     >>> count_repeats("aeiou")
     0
     """
